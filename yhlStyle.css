@@ -9,8 +9,25 @@ p{
     font-size:30px;
 }
 
+h2{
+    font-size:45px;
+}
+
 .centerText {
     text-align:center;
 }
 
 
+.lineone {
+    height: 50px;
+    width: 100%;
+}
+
+.lineTwo {
+    height: 15px;
+    width: 100%;
+}
+
+.emptyIndex {
+    text-indent: 2em;
+}
